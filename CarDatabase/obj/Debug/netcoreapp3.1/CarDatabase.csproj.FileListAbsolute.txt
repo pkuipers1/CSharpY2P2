@@ -1,0 +1,14 @@
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.exe
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.deps.json
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.runtimeconfig.json
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.runtimeconfig.dev.json
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.dll
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\bin\Debug\netcoreapp3.1\CarDatabase.pdb
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.csproj.AssemblyReference.cache
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.GeneratedMSBuildEditorConfig.editorconfig
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.AssemblyInfoInputs.cache
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.AssemblyInfo.cs
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.csproj.CoreCompileInputs.cache
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.dll
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.pdb
+X:\002_Mediacollege\Periode2\PROG-C#\CarDatabase\CarDatabase\obj\Debug\netcoreapp3.1\CarDatabase.genruntimeconfig.cache
